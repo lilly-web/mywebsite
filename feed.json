@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "my passion",
+    "description": "",
+    "home_page_url": "https://lilly-web.github.io/mywebsite",
+    "feed_url": "https://lilly-web.github.io/mywebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "lingomso lam"
+    },
+    "items": [
+    ]
+}
